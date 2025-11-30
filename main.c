@@ -2,7 +2,7 @@
 
 int multiply(int a, int b) 
 {
-    return a * b
+    return a * b;
 }
 int main() 
 {
@@ -12,4 +12,5 @@ int main()
     printf("Multiplication result: %d\n", result);
     return 0;
 }
+
 
